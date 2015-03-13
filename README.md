@@ -1,6 +1,10 @@
 # namespace_demo
 a simple Python namespace demonstration
 
+## WARNING: this is not currently functioning.
+
+More to come.
+
 -----
 
 ## Structure
